@@ -17,12 +17,12 @@ title: serkan
 description: > # this means to ignore newlines until "baseurl:"
   Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
 baseurl: "/cavuss"
-url: "https://shawnteoh.github.io"
+url: "https://cavuss.github.io/"
 permalink: /:year/:month/:day/:title
-repository: ShawnTeoh/matjek
+repository: cavuss/cavuss.github.io
 paginate: 5
 
-# MatJek specific configurations
+# Serkan specific configurations
 github_profile: "https://github.com/cavuss"
 user: "Serkan Cavus"
 user_email: "serkan.cavus@capgemini.com"
